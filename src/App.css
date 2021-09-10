@@ -14,7 +14,9 @@
   height: 100%;
   justify-content: center;
   margin-bottom: 14%;
-  margin-top: 30%;
+  margin-top: 0;
+  padding-top: 25%;
+  position: absolute; /* teste */
   width: 100%;
 
 }

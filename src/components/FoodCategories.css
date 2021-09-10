@@ -1,0 +1,25 @@
+.category-button {
+  height: 38px;
+  margin-bottom: 6px;
+  width: 105px;
+}
+
+.food-card {
+  display: flex;
+  max-width: 140px;
+}
+
+.food-card-img {
+  height: auto;
+  max-height: 120px;
+  max-width: 140px;
+  width: auto;
+}
+
+.food-category {
+  display: flex;
+  flex-flow: wrap;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 90%;
+}
