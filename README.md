@@ -3,7 +3,7 @@
 Este projeto foi desenvolvido em
 ---
 
-# Habilidades
+### Habilidades
 
 Nesse projeto utilizei:
 
