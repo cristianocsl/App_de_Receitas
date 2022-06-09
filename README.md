@@ -7,8 +7,7 @@ Este projeto foi desenvolvido em
 
 Nesse projeto utilizei:
 
-  - Redux para gerenciar estado
-  - A biblioteca React-Redux
+  - A biblioteca React-Redux para gerenciar estado
   - React Hook: useState, useEffect, useDispatch, useSelect, useParams.
   - React Router Dom
   - Componentes reutilizáveis
