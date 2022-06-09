@@ -1,6 +1,7 @@
 # Boas vindas ao repositório do projeto de Receitas!
 
 Este projeto foi desenvolvido em
+
 ---
 
 ### Habilidades
