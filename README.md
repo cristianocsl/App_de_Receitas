@@ -9,11 +9,9 @@ Nesse projeto utilizei:
 
   - Redux para gerenciar estado
   - A biblioteca React-Redux
-  - Context API do React para gerenciar estado
-  - React Hook useState_
-  - React Hook useContext_
-  - React Hook useEffect_
-  - Criar Hooks customizados
+  - React Hook useState
+  - React Hook useContext
+  - React Hook useEffect
 
 ---
 
