@@ -1,6 +1,8 @@
-# Boas vindas ao repositório do projeto de Receitas!
+# Boas vindas ao repositório App de Receitas!
 
-Este projeto foi desenvolvido em
+Neste projeto foi desenvolvido um Aplicativo de receitas em que é possível buscar, filtrar, favoritar e acompanhar o processo de preparação de receitas e drinks a partir de duas APIs distintas, uma para comidas e outra para bebidas. O foco do layout deste projeto é para dispositivos móveis.
+
+Um ponto de destaque neste projeto foi a sua realização em grupo, em que pude praticar as habilidades de softskill em dar e receber feedbacks estruturados, pude ver na prática como se comportar em Dayly Limits (DMs) seguindo a sua estrutura, e também tive a oportunidade de me desenvolver mais como desenvolvedor compartilhando e recendo conhecimentos e estabelecendo Networking.
 
 ---
 
