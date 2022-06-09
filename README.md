@@ -8,7 +8,7 @@ Este projeto foi desenvolvido em
 Nesse projeto utilizei:
 
   - Redux para gerenciar estado
-  - a biblioteca React-Redux
+  - A biblioteca React-Redux
   - Context API do React para gerenciar estado
   - React Hook useState_
   - React Hook useContext_
